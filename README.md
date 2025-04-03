@@ -16,5 +16,3 @@ C#과 Unity를 활용한 게임 개발을 주로 합니다.
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-### 📊 GitHub Stats  
-![Metrics](https://metrics.lecoq.io/kimtaeyoon0419?template=classic&base.community=0&base.repositories=0&config.timezone=Asia%2FSeoul)
