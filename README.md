@@ -1,7 +1,16 @@
-## Hi there 👋
+## 👨‍💻 KimTaeyoon Git
 
-<!--
-**kimtaeyoon0419/kimtaeyoon0419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 게임 개발을 사랑하는 **김태윤**입니다.  
+C#과 Unity를 활용한 게임 개발을 주로 하며, 깃을 활용한 협업을 중요하게 생각합니다.  
 
-Here are some ideas to get you started:
-<img src="https://img.shields.io/badge/gitlab-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=black" />
+### 🚀 Tech Stack
+- **Game Development**: 🎮 Unity (C#)
+- **Version Control**: 🛠 Git, GitHub, GitLab, Fork
+
+### 📊 GitHub Stats
+![KimTaeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaeyoon0419&show_icons=true&theme=dark)
+
+---
+
+🔥 게임 개발과 협업을 즐기며 성장하는 개발자가 되겠습니다!  
+함께 이야기 나누고 싶다면 언제든지 연락 주세요. 😊
