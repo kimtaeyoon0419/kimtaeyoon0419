@@ -17,6 +17,4 @@ C#과 Unity를 활용한 게임 개발을 주로 합니다.
 </p>
 
 ### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimtaeyoon0419&show_icons=true&theme=dark" height="165"/>
-</p>
+![Metrics](https://metrics.lecoq.io/kimtaeyoon0419?template=classic&base.community=0&base.repositories=0&config.timezone=Asia%2FSeoul)
